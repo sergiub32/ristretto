@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/etecs-ru/ristretto/z"
+	"github.com/sergiub32/ristretto/z"
 	"github.com/stretchr/testify/require"
 )
 

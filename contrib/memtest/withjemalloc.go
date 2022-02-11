@@ -5,7 +5,7 @@ package main
 import (
 	"log"
 
-	"github.com/etecs-ru/ristretto/z"
+	"github.com/sergiub32/ristretto/z"
 )
 
 func Calloc(size int) []byte { return z.Calloc(size, "memtest") }

@@ -27,7 +27,7 @@ import (
 	"time"
 
 	"github.com/dustin/go-humanize"
-	"github.com/etecs-ru/ristretto/z/simd"
+	"github.com/sergiub32/ristretto/z/simd"
 	"github.com/stretchr/testify/require"
 )
 

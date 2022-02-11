@@ -21,7 +21,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/etecs-ru/ristretto/z"
+	"github.com/sergiub32/ristretto/z"
 )
 
 const (

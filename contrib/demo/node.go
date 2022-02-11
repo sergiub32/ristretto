@@ -6,7 +6,7 @@ import (
 	"unsafe"
 
 	"github.com/dustin/go-humanize"
-	"github.com/etecs-ru/ristretto/z"
+	"github.com/sergiub32/ristretto/z"
 )
 
 type node struct {

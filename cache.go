@@ -25,7 +25,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/etecs-ru/ristretto/z"
+	"github.com/sergiub32/ristretto/z"
 )
 
 // TODO: find the optimal value for this or make it configurable

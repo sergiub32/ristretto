@@ -6,7 +6,7 @@ package main
 import (
 	"unsafe"
 
-	"github.com/etecs-ru/ristretto/z"
+	"github.com/sergiub32/ristretto/z"
 )
 
 func newNode(val int) *node {

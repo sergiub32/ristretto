@@ -24,7 +24,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/etecs-ru/ristretto/z/simd"
+	"github.com/sergiub32/ristretto/z/simd"
 )
 
 var (
